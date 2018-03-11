@@ -85,7 +85,6 @@ V:
 
 ```java
 for (int i = 0; i<table.getRowCount(); i++) {
-
   // Access each row of the table one at a time, in a loop.
   TableRow row = table.getRow(i);
   float x = row.getFloat("x");
@@ -118,8 +117,6 @@ V:
 
 ## Tabular data methods
 ### [Other useful commands](https://processing.github.io/processing-javadocs/core/processing/data/Table.html)
-
-(https://processing.org/reference/loadTable_.html)
 
 ```java
 Table table = loadTable("data.csv", "header"); //see https://processing.org/reference/loadTable_.html)
