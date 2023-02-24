@@ -22,7 +22,9 @@ H:
 # DATA
 
 by Jean Pierre Charalambos  
-[Universidad Nacional de Colombia](https://unal.edu.co/)
+[Universidad Nacional de Colombia](https://unal.edu.co/)  
+Presentation best seen [online](https://objetos.github.io/data/)  
+See also the [source code](https://github.com/objetos/data)
 
 H:
 
